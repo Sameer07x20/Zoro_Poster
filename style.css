@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #fff;
+}
+.main{
+    width: 50%;
+    margin-left: 25%;
+}
+img{
+    height: auto;
+    width: 100%;
+    border: 5px solid #fff;
+    margin-top: 12vh;
+}
+h1{
+    font-family: "Libre Baskerville", serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: 300;
+}
+p{
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 200;
+    border-bottom: 2px solid white;
+    width: 40%;
+    margin-left: 30%;
+}
